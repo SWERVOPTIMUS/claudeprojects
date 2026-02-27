@@ -1,0 +1,3 @@
+[submodule "ervin_nexus"]
+	path = ervin_nexus
+	url = git@github.com:SWERVOPTIMUS/ervin_nexus.git

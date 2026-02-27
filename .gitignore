@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+.idea/
+
+# Claude Code session data (do not commit conversation history)
+.claude/
+
